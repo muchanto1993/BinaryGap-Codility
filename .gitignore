@@ -3,3 +3,4 @@
 
 # Directories
 !/build/*
+build/built-jar.properties
