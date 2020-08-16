@@ -27,7 +27,6 @@ public class Main {
         System.out.println("Test No 1 : " + m1.solution(1041));
         System.out.println("Test No 2 : " + m2.solution(15));
         System.out.println("Test No 3 : " + m3.solution(32));
-        
         System.out.println("Test No 4 : " + m3.solution(9));
         System.out.println("Test No 5 : " + m3.solution(529));
         System.out.println("Test No 6 : " + m3.solution(20));
